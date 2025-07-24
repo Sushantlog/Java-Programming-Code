@@ -1,7 +1,7 @@
 package Java_Code;
 
 import java.util.Scanner;
-
+//Sum of First N Natural numbers:
 public class _03_Program {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
