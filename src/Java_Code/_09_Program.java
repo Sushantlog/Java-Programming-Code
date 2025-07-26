@@ -29,6 +29,5 @@ public class _09_Program {
     }
 }
 
-
 //Math.max(2, lower) = Math.max(2, 1) = 2
 //So the loop will start from 2, and correctly ignore 1, which is not prime.
