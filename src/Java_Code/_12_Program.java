@@ -1,6 +1,5 @@
 package Java_Code;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 //Palindrome number
