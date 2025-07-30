@@ -12,7 +12,7 @@ class Palindrome
 
         while (left < right){
             if(!Character.isLetterOrDigit(str.charAt(left))){
-                System.out.println(Character.isLetterOrDigit(str.charAt(left)));
+//                System.out.println(Character.isLetterOrDigit(str.charAt(left)));
                 left++;
             } else if (!Character.isLetterOrDigit(str.charAt(right))) {
                 right--;
