@@ -39,3 +39,7 @@ public class _23_Program {
 
     }
 }
+
+//"Sorry, I won’t be able to make it tomorrow due to other commitments.
+// But I’m very interested in working with [Company Name] in a technical role like
+// software development, so I’d love to stay in touch for future openings."
